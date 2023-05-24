@@ -1,6 +1,6 @@
 ﻿# Meta-Back-End-Developer
 
-- this repo will document my journey of learning The [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
+- this Repo will document my journey of learning The [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
 ## Table of Content
 
